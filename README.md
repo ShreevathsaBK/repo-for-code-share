@@ -1,2 +1,2 @@
 # repo-for-code-share
-Repo for sharinfg code
+Repo for sharing code
